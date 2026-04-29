@@ -47,5 +47,5 @@ Swagger UI disponible en `http://localhost:8000/docs`
 
 ## 👨‍💻 Autor
 
-**Davier** — Desarrollador Full Stack Junior  
+**JoseV343** — Desarrollador Full Stack Junior  
 Stack: Python · FastAPI · MySQL · APIs REST
